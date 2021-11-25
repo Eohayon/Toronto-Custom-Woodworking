@@ -3,4 +3,4 @@ After high school, a close friend and I started a business making custom furnitu
 
 <img src="https://github.com/Eohayon/Toronto-Custom-Woodworking/blob/main/Pictures/RIVER%20COFFEE.png" width="40%" height="40%"><img src="https://github.com/Eohayon/Toronto-Custom-Woodworking/blob/main/Pictures/RIVER%20DINING.png" width="35%" height="35%">
 
-<img src="https://github.com/Eohayon/Toronto-Custom-Woodworking/blob/main/Pictures/BOWLING%20TOP.png" width="35%" height="35%"><img src="https://github.com/Eohayon/Toronto-Custom-Woodworking/blob/main/Pictures/BOWLING%20LEGS.png" width="50%" height="50%">
+<img src="https://github.com/Eohayon/Toronto-Custom-Woodworking/blob/main/Pictures/BOWLING%20TOP.png" width="35%" height="35%"><img src="https://github.com/Eohayon/Toronto-Custom-Woodworking/blob/main/Pictures/BOWLING%20LEGS.png" width="55%" height="55%">
